@@ -8,12 +8,12 @@ I specialize in frontend development and have a proven track record of leading t
 
 With extensive hands-on experience as a Frontend Engineer, I focus on creating scalable and accessible solutions tailored for diverse industries. I provide strategic guidance, enhance software architectures, and lead frontend development teams to deliver exceptional projects. Additionally, I am proficient in Test Driven Development (TDD), ensuring robust and maintainable code across all projects.
 
-- **Location:** Bengaluru, Karnataka, India
-- **LinkedIn:** [Harsha C G](https://www.linkedin.com/in/harshacg)
+**Location:** Bengaluru, Karnataka, India
 
 ## Skills
 <img src="./html5-colored.svg" width="36" /> <img src="./css3-colored.svg" width="36" /> <img src="./javascript-colored.svg" width="36" /> <img src="./typescript-colored.svg" width="36" /> <img src="./tailwindcss-colored.svg" width="36" /> <img src="./react-colored.svg" width="36" /> <img src="./angular-colored.svg" width="36" /> <img src="./svelte-colored.svg" width="36" /> <img src="./nodejs-colored.svg" width="36" /> <img src="./vitest-colored.svg" width="36" /> <img src="./testing-library-colored.svg" width="34" /> <img src="./jest-colored.svg" width="32" /> <img src="./karma-colored.svg" width="38" /> <img src="./jasmine-colored.svg" width="36" /> <img src="./figma-colored.svg" width="36" />
 
+**LinkedIn:** [Harsha C G](https://www.linkedin.com/in/harshacg)
 <!--
 **cgharsha/cgharsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

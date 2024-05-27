@@ -11,6 +11,9 @@ With extensive experience as a Frontend Engineer, I focus on creating scalable a
 - **Location:** Bengaluru, Karnataka, India
 - **LinkedIn:** [Harsha C G](https://www.linkedin.com/in/harshacg)
 
+## Skills
+<img src="./html5-colored.svg" width="36" /> <img src="./css3-colored.svg" width="36" /> <img src="./javascript-colored.svg" width="36" /> <img src="./typescript-colored.svg" width="36" /> <img src="./tailwindcss-colored.svg" width="36" /> <img src="./react-colored.svg" width="36" /> <img src="./angular-colored.svg" width="36" /> <img src="./svelte-colored.svg" width="36" /> <img src="./nodejs-colored.svg" width="36" /> <img src="./figma-colored.svg" width="36" />
+
 <!--
 **cgharsha/cgharsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,10 +10,11 @@ With extensive hands-on experience as a Frontend Engineer, I focus on creating s
 
 **Location:** Bengaluru, Karnataka, India
 
+<a href="" target="_blank"><img src="./linkedin.svg" width="36" /></a>
+
 ## Skills
 <img src="./html5-colored.svg" width="36" /> <img src="./css3-colored.svg" width="36" /> <img src="./javascript-colored.svg" width="36" /> <img src="./typescript-colored.svg" width="36" /> <img src="./tailwindcss-colored.svg" width="36" /> <img src="./react-colored.svg" width="36" /> <img src="./angular-colored.svg" width="36" /> <img src="./svelte-colored.svg" width="36" /> <img src="./nodejs-colored.svg" width="36" /> <img src="./vitest-colored.svg" width="36" /> <img src="./testing-library-colored.svg" width="34" /> <img src="./jest-colored.svg" width="32" /> <img src="./karma-colored.svg" width="38" /> <img src="./jasmine-colored.svg" width="36" /> <img src="./figma-colored.svg" width="36" />
 
-**LinkedIn:** [Harsha C G](https://www.linkedin.com/in/harshacg)
 <!--
 **cgharsha/cgharsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

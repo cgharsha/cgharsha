@@ -6,12 +6,10 @@ Welcome to my GitHub repository! I am Harsha, a seasoned Senior Manager in Front
 
 I specialize in frontend development and have a proven track record of leading teams to deliver high-impact projects. My experience spans multiple domains, including Beverages, Lifestyle, FMCG, AI, E-Commerce, Advertising & Marketing, and Cloud Technologies.
 
+With extensive experience as a Frontend Engineer, I focus on creating scalable and accessible solutions tailored for diverse industries. I provide strategic guidance, enhance software architectures, and lead frontend development teams to deliver exceptional projects.
+
 - **Location:** Bengaluru, Karnataka, India
 - **LinkedIn:** [Harsha C G](https://www.linkedin.com/in/harshacg)
-
-## Professional Summary
-
-With extensive experience as a Frontend Engineer, I focus on creating scalable and accessible solutions tailored for diverse industries. I provide strategic guidance, enhance software architectures, and lead frontend development teams to deliver exceptional projects.
 
 <!--
 **cgharsha/cgharsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

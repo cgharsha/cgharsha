@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Harsha C G
 
-Welcome to my GitHub repository! I am Harsha, Senior Technical Manager in Frontend Engineering with 14+ years of extensive hands-on experience in frontend coding, DevOps work, and system optimizations
+Welcome to my GitHub repository! I am Harsha, Senior Principal Engineer in Frontend Engineering with 16+ years of extensive hands-on experience in frontend coding, DevOps work, and system optimizations
 across various industries. My expertise lies in enhancing software architectures, refining user experiences, and mentoring diverse teams to achieve continuous innovation and excellence in project delivery.
 
 ## About Me
